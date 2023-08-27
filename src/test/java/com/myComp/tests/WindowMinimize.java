@@ -1,5 +1,4 @@
 package com.myComp.tests;
-
 import com.myComp.utilities.BrowserUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
